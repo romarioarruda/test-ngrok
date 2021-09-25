@@ -17,8 +17,11 @@ Agora é só acessar a aplicação através do link gerado pelo NGROK.
 
 Exemplo do resultando no terminal:
 
-<img src="./example.png" alt="ngrok hosts" heigth="80" width="100"/>
+<img src="./exemple.png" alt="ngrok hosts" heigth="80" width="600"/>
+
+
 
 
 **Links úteis**:
+
 [Página do ngrok](https://ngrok.com/)
