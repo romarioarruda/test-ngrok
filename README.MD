@@ -42,4 +42,4 @@ $ npm run ngrok
 
 ***Links úteis***:
 
-[Página do ngrok](https://ngrok.com/)
+[Documentação do ngrok](https://ngrok.com/)
