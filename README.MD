@@ -1,5 +1,5 @@
 ### Criando um túnel http com ngrok para tornar aplicações no localhost acessiveis na internet
-<br><br>
+<br>
 
 
 **Siga os passos**:
@@ -36,7 +36,7 @@ $ npm run ngrok
 
 **Acesse o link gerado. Exemplo**:
 
-> https://7a3e-168-181-253-141.ngrok.io/
+<img src="./hello_world.png" alt="hello_world_example" heigth="80" width="600"/>
 > 
 <br><br>
 
