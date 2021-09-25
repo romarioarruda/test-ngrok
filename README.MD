@@ -34,10 +34,10 @@ $ npm run ngrok
 
 <br>
 
-**Acesse o link gerado. Exemplo**:
-
+**Acesse o link gerado como no exemplo abaixo**:
+<hr>
 <img src="./hello_world.png" alt="hello_world_example" heigth="80" width="600"/>
-> 
+<hr>
 <br><br>
 
 ***Links úteis***:
